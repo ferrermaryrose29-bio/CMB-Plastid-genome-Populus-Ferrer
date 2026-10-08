@@ -35,7 +35,7 @@ I searched NCBI Nucleotide for the *Populus* chloroplast complete genome and cho
 
 **Galaxy result:** 157,033 bp, 1 sequence record, GC content 36.68%, 0 N bases and 0 gaps (A 49,158; T 50,283; C 29,304; G 28,288). The whole plastome is in a single record.
 
-![Galaxy history and Fasta Statistics output](Figures/galaxy_history_stats.png)
+![Galaxy history and Fasta Statistics output](Screenshots/galaxy_history_stats.png)
 
 ## Gene content and observations
 
