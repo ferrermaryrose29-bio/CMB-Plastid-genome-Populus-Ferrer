@@ -41,21 +41,6 @@ I searched NCBI Nucleotide for the *Populus* chloroplast complete genome and cho
 
 The GenBank annotation lists 144 gene features (98 CDS, 37 tRNA, 8 rRNA and 1 pseudogene, *infA*), counting genes in the IR twice. Counting each IR copy once gives 120 unique genes. The four rRNA genes (16S, 23S, 4.5S and 5S) occur in both IR copies. Genes with introns include *atpF*, *clpP*, *ndhA*, *ndhB*, *petB*, *petD*, *rpl16*, *rpl2*, *rpoC1*, *rps12* and *ycf3*, and six tRNA genes also have introns. *rps12* is trans-spliced, with its first exon in the LSC and its other exons in the IR. GC content is highest in the IR (41.92%) and lowest in the SSC (30.54%). No *rps16* annotation is present in this record. Galaxy confirmed a single sequence record with no Ns.
 
-## Files in this folder
-
-| Folder | Contents |
-|---|---|
-| `Data/` | Source FASTA and GenBank files for NC_009143.1 |
-| `Figures/` | Galaxy history and statistics screenshot |
-| `Results/` | FASTA summary, GenBank summary, genome and gene tables |
-| `Report/` | Final report with answers to Questions 1-10 and the plastid vs mitochondrial table |
-
-## How to repeat this analysis
-
-1. Open the NCBI link above and download the FASTA and GenBank files for NC_009143.1.
-2. Sign in to usegalaxy.org, create a new history, and upload the FASTA file. Confirm that the datatype is fasta.
-3. Run Fasta Statistics on the dataset and record the length, number of sequences and GC content.
-4. Use the GenBank file to count genes by type and to find the LSC, SSC and IR regions from the `repeat_region` entries.
 
 ## Data sources and references
 
