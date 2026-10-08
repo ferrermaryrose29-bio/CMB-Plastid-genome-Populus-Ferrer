@@ -1,6 +1,6 @@
 # Visualize Plastid Genome Structure
 
-**Student:** Mary Rose V. Ferrer
+**Name:** Mary Rose V. Ferrer
 **Course:** Cell and Molecular Biology, B
 
 ## Genome Information
