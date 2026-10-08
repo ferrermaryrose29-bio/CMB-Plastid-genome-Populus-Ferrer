@@ -35,4 +35,4 @@ Reference: Greiner S, Lehwark P, Bock R. 2019. OrganellarGenomeDRAW (OGDRAW) ver
 ![Plastid genome map](Screenshots/Populus_trichocarpa_plastid_map.png)
 
 ## Answers
-- answers to Questions 1-10 ([view answers](answers/Lab_plastid_genome_answers.md))
+- answers to Questions 1-10 ([view answers](Answers/Lab_plastid_genome_answers.md))
