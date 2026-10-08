@@ -1,8 +1,8 @@
 # Characterization of a Plastid Genome: *Populus trichocarpa*
 
-**Name:** [Mary Rose V. Ferrer]
-**Course:** Cell and Molecular Biology, [B], Negros Oriental State University
-**Genome retrieved:** [September 29, 2026]
+**Name:** Mary Rose V. Ferrer
+**Course:** Cell and Molecular Biology, B, Negros Oriental State University
+**Genome retrieved:** September 29, 2026
 **Galaxy history:** Plastid_Populus_Ferrer
 
 ## Summary Table
