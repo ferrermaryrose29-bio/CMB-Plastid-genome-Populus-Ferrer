@@ -32,7 +32,7 @@ Reference: Greiner S, Lehwark P, Bock R. 2019. OrganellarGenomeDRAW (OGDRAW) ver
 - Output format: PNG
 
 ## Plastid Genome Map
-![Plastid genome map](figures/Populus_trichocarpa_plastid_map.png)
+![Plastid genome map](Screenshots/Populus_trichocarpa_plastid_map.png)
 
 ## Main Structural Features
 The *P. trichocarpa* plastid genome is a circular 157,033 bp molecule with the usual quadripartite structure. A large single-copy region (LSC, 85,129 bp) and a small single-copy region (SSC, 16,600 bp) are separated by two inverted repeats (IRb and IRa, 27,652 bp each). Genes are found on both strands. Photosynthesis genes such as psbA, rbcL and psaA are in the LSC, and most ndh genes are in the SSC. The IRs carry all four rRNA genes, several tRNA genes, and protein genes such as rpl2, rpl23, ycf2, ndhB and rps7, which therefore appear twice on the map. The GC graph is not uniform. Region averages from my earlier analysis are LSC 34.47%, SSC 30.54% and IR 41.92%.
